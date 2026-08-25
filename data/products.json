@@ -1,0 +1,3002 @@
+[
+  {
+    "productId": "PROD-00001",
+    "sku": "GRO-00001",
+    "name": "Apex Sharable bifurcated algorithm",
+    "description": "Development say quality throughout beautiful. All behavior discussion own night respond. Information last everything thank serve civil institution.",
+    "brand": "Apex",
+    "price": 39.76,
+    "salePrice": 31.59,
+    "currency": "INR",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "tags": [
+      "groceries",
+      "snacks",
+      "fall",
+      "clearly"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00001/1.jpg",
+      "https://images.example.com/products/PROD-00001/2.jpg"
+    ],
+    "stockQuantity": 228,
+    "specifications": {
+      "color": "Silver",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.250701Z",
+    "updatedAt": "2026-08-16T15:30:07.250701Z"
+  },
+  {
+    "productId": "PROD-00002",
+    "sku": "BOO-00002",
+    "name": "NovaTech Extended well-modulated Graphical User Interface",
+    "description": "Here grow gas enough. Role movie win.",
+    "brand": "NovaTech",
+    "price": 45.46,
+    "salePrice": 38.69,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Fiction",
+    "tags": [
+      "books",
+      "fiction",
+      "human",
+      "bar"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00002/1.jpg",
+      "https://images.example.com/products/PROD-00002/2.jpg"
+    ],
+    "stockQuantity": 183,
+    "specifications": {
+      "color": "Silver",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.250843Z",
+    "updatedAt": "2026-08-16T15:30:07.250843Z"
+  },
+  {
+    "productId": "PROD-00003",
+    "sku": "BOO-00003",
+    "name": "Nexora Reactive explicit product",
+    "description": "Officer relate animal direction eye bag. Term herself law street class. Decide environment view possible participant commercial. Clear here writer policy news.",
+    "brand": "Nexora",
+    "price": 973.22,
+    "salePrice": 886.76,
+    "currency": "EUR",
+    "category": "Books",
+    "subcategory": "Technology",
+    "tags": [
+      "books",
+      "technology",
+      "reveal",
+      "garden"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00003/1.jpg",
+      "https://images.example.com/products/PROD-00003/2.jpg"
+    ],
+    "stockQuantity": 39,
+    "specifications": {
+      "color": "White",
+      "material": "Plastic",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.250903Z",
+    "updatedAt": "2026-08-16T15:30:07.250903Z"
+  },
+  {
+    "productId": "PROD-00004",
+    "sku": "ELE-00004",
+    "name": "VividLife Visionary zero-defect approach",
+    "description": "Source husband at. Then fire pretty how trip learn enter.",
+    "brand": "VividLife",
+    "price": 125.09,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "tags": [
+      "electronics",
+      "accessories",
+      "employee",
+      "size"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00004/1.jpg",
+      "https://images.example.com/products/PROD-00004/2.jpg"
+    ],
+    "stockQuantity": 186,
+    "specifications": {
+      "color": "Red",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.250970Z",
+    "updatedAt": "2026-08-16T15:30:07.250970Z"
+  },
+  {
+    "productId": "PROD-00005",
+    "sku": "BOO-00005",
+    "name": "VividLife Realigned national firmware",
+    "description": "Today human despite young meeting before. Technology check civil. Others his other life edge network. Quite boy those.",
+    "brand": "VividLife",
+    "price": 666.93,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Books",
+    "subcategory": "Fiction",
+    "tags": [
+      "books",
+      "fiction",
+      "social",
+      "example"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00005/1.jpg",
+      "https://images.example.com/products/PROD-00005/2.jpg"
+    ],
+    "stockQuantity": 49,
+    "specifications": {
+      "color": "Black",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.251017Z",
+    "updatedAt": "2026-08-16T15:30:07.251017Z"
+  },
+  {
+    "productId": "PROD-00006",
+    "sku": "APP-00006",
+    "name": "Apex Visionary secondary Graphical User Interface",
+    "description": "Itself law west then enjoy. Seven medical blood personal success medical current.",
+    "brand": "Apex",
+    "price": 1182.41,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Apparel",
+    "subcategory": "Footwear",
+    "tags": [
+      "apparel",
+      "footwear",
+      "hour",
+      "sound"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00006/1.jpg",
+      "https://images.example.com/products/PROD-00006/2.jpg"
+    ],
+    "stockQuantity": 116,
+    "specifications": {
+      "color": "Blue",
+      "material": "Cotton",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.251078Z",
+    "updatedAt": "2026-08-16T15:30:07.251078Z"
+  },
+  {
+    "productId": "PROD-00007",
+    "sku": "HOM-00007",
+    "name": "Apex Diverse needs-based time-frame",
+    "description": "Out major born. These story film around there water. Rule staff within mouth. Campaign little near enter. Institution deep much role cut find yet practice.",
+    "brand": "Apex",
+    "price": 807.51,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Home Goods",
+    "subcategory": "Furniture",
+    "tags": [
+      "home-goods",
+      "furniture",
+      "left",
+      "we"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00007/1.jpg",
+      "https://images.example.com/products/PROD-00007/2.jpg"
+    ],
+    "stockQuantity": 43,
+    "specifications": {
+      "color": "Silver",
+      "material": "Cotton",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.251755Z",
+    "updatedAt": "2026-08-16T15:30:07.251755Z"
+  },
+  {
+    "productId": "PROD-00008",
+    "sku": "BOO-00008",
+    "name": "CoreCraft Programmable local capability",
+    "description": "Ask again network open according.",
+    "brand": "CoreCraft",
+    "price": 331.24,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Books",
+    "subcategory": "Education",
+    "tags": [
+      "books",
+      "education",
+      "second",
+      "program"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00008/1.jpg",
+      "https://images.example.com/products/PROD-00008/2.jpg"
+    ],
+    "stockQuantity": 83,
+    "specifications": {
+      "color": "Black",
+      "material": "Cotton",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.251891Z",
+    "updatedAt": "2026-08-16T15:30:07.251891Z"
+  },
+  {
+    "productId": "PROD-00009",
+    "sku": "BEA-00009",
+    "name": "VividLife Centralized discrete architecture",
+    "description": "Audience draw protect Democrat car very. Office drug list imagine behind probably great.",
+    "brand": "VividLife",
+    "price": 487.39,
+    "salePrice": 454.55,
+    "currency": "EUR",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "tags": [
+      "beauty",
+      "makeup",
+      "item",
+      "manage"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00009/1.jpg",
+      "https://images.example.com/products/PROD-00009/2.jpg"
+    ],
+    "stockQuantity": 54,
+    "specifications": {
+      "color": "Red",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.251937Z",
+    "updatedAt": "2026-08-16T15:30:07.251937Z"
+  },
+  {
+    "productId": "PROD-00010",
+    "sku": "BOO-00010",
+    "name": "UrbanEdge Upgradable actuating service-desk",
+    "description": "I fund technology eat. Movie cell contain leg themselves.",
+    "brand": "UrbanEdge",
+    "price": 325.21,
+    "salePrice": 280.42,
+    "currency": "INR",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "tags": [
+      "books",
+      "non-fiction",
+      "bag",
+      "level"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00010/1.jpg",
+      "https://images.example.com/products/PROD-00010/2.jpg"
+    ],
+    "stockQuantity": 109,
+    "specifications": {
+      "color": "Silver",
+      "material": "Wood",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.251984Z",
+    "updatedAt": "2026-08-16T15:30:07.251984Z"
+  },
+  {
+    "productId": "PROD-00011",
+    "sku": "APP-00011",
+    "name": "Apex Reactive bandwidth-monitored application",
+    "description": "Why unit support. Image loss ten total.",
+    "brand": "Apex",
+    "price": 616.34,
+    "salePrice": 468.06,
+    "currency": "INR",
+    "category": "Apparel",
+    "subcategory": "Women",
+    "tags": [
+      "apparel",
+      "women",
+      "community",
+      "hundred"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00011/1.jpg",
+      "https://images.example.com/products/PROD-00011/2.jpg"
+    ],
+    "stockQuantity": 40,
+    "specifications": {
+      "color": "Red",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.252033Z",
+    "updatedAt": "2026-08-16T15:30:07.252033Z"
+  },
+  {
+    "productId": "PROD-00012",
+    "sku": "BOO-00012",
+    "name": "UrbanEdge Adaptive human-resource firmware",
+    "description": "Institution whatever yet new responsibility. Couple design around save. Security arm once me. Church whether bag control organization push dog.",
+    "brand": "UrbanEdge",
+    "price": 719.11,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Education",
+    "tags": [
+      "books",
+      "education",
+      "call",
+      "year"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00012/1.jpg",
+      "https://images.example.com/products/PROD-00012/2.jpg"
+    ],
+    "stockQuantity": 174,
+    "specifications": {
+      "color": "Black",
+      "material": "Steel",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.252153Z",
+    "updatedAt": "2026-08-16T15:30:07.252153Z"
+  },
+  {
+    "productId": "PROD-00013",
+    "sku": "BEA-00013",
+    "name": "UrbanEdge Re-contextualized dynamic paradigm",
+    "description": "People information on. First end prove fire enter capital population. First sell authority leader your you available. Media car give attention each. Citizen street region particularly would.",
+    "brand": "UrbanEdge",
+    "price": 142.75,
+    "salePrice": 120.02,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "tags": [
+      "beauty",
+      "makeup",
+      "ready",
+      "newspaper"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00013/1.jpg",
+      "https://images.example.com/products/PROD-00013/2.jpg"
+    ],
+    "stockQuantity": 129,
+    "specifications": {
+      "color": "Black",
+      "material": "Plastic",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.252231Z",
+    "updatedAt": "2026-08-16T15:30:07.252231Z"
+  },
+  {
+    "productId": "PROD-00014",
+    "sku": "TOY-00014",
+    "name": "CoreCraft Advanced static neural-net",
+    "description": "Voice care break blood. Choice example decision garden reach table measure. Town suffer begin interest everybody.",
+    "brand": "CoreCraft",
+    "price": 191.88,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "tags": [
+      "toys",
+      "action-figures",
+      "about",
+      "goal"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00014/1.jpg",
+      "https://images.example.com/products/PROD-00014/2.jpg"
+    ],
+    "stockQuantity": 153,
+    "specifications": {
+      "color": "Blue",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.252539Z",
+    "updatedAt": "2026-08-16T15:30:07.252539Z"
+  },
+  {
+    "productId": "PROD-00015",
+    "sku": "ELE-00015",
+    "name": "UrbanEdge Visionary clear-thinking productivity",
+    "description": "Scientist necessary into act.",
+    "brand": "UrbanEdge",
+    "price": 1055.68,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "tags": [
+      "electronics",
+      "smartphones",
+      "bag",
+      "you"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00015/1.jpg",
+      "https://images.example.com/products/PROD-00015/2.jpg"
+    ],
+    "stockQuantity": 61,
+    "specifications": {
+      "color": "Silver",
+      "material": "Aluminum",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.252601Z",
+    "updatedAt": "2026-08-16T15:30:07.252601Z"
+  },
+  {
+    "productId": "PROD-00016",
+    "sku": "GRO-00016",
+    "name": "CoreCraft Team-oriented coherent moratorium",
+    "description": "Old challenge camera final together someone.",
+    "brand": "CoreCraft",
+    "price": 981.07,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Groceries",
+    "subcategory": "Organic",
+    "tags": [
+      "groceries",
+      "organic",
+      "traditional",
+      "among"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00016/1.jpg",
+      "https://images.example.com/products/PROD-00016/2.jpg"
+    ],
+    "stockQuantity": 168,
+    "specifications": {
+      "color": "Red",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.252640Z",
+    "updatedAt": "2026-08-16T15:30:07.252640Z"
+  },
+  {
+    "productId": "PROD-00017",
+    "sku": "HOM-00017",
+    "name": "Lumina Multi-channeled demand-driven software",
+    "description": "Government nice themselves wind. Understand door class son. Thing agent say forward.",
+    "brand": "Lumina",
+    "price": 1157.59,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Home Goods",
+    "subcategory": "Lighting",
+    "tags": [
+      "home-goods",
+      "lighting",
+      "word",
+      "its"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00017/1.jpg",
+      "https://images.example.com/products/PROD-00017/2.jpg"
+    ],
+    "stockQuantity": 102,
+    "specifications": {
+      "color": "Blue",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.252677Z",
+    "updatedAt": "2026-08-16T15:30:07.252677Z"
+  },
+  {
+    "productId": "PROD-00018",
+    "sku": "BOO-00018",
+    "name": "CoreCraft Synchronized user-facing workforce",
+    "description": "City red him although likely.",
+    "brand": "CoreCraft",
+    "price": 305.01,
+    "salePrice": 230.04,
+    "currency": "INR",
+    "category": "Books",
+    "subcategory": "Fiction",
+    "tags": [
+      "books",
+      "fiction",
+      "decision",
+      "technology"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00018/1.jpg",
+      "https://images.example.com/products/PROD-00018/2.jpg"
+    ],
+    "stockQuantity": 56,
+    "specifications": {
+      "color": "Black",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.252729Z",
+    "updatedAt": "2026-08-16T15:30:07.252729Z"
+  },
+  {
+    "productId": "PROD-00019",
+    "sku": "GRO-00019",
+    "name": "EverPeak Persevering grid-enabled function",
+    "description": "Age cover foreign ten whom.",
+    "brand": "EverPeak",
+    "price": 282.44,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "tags": [
+      "groceries",
+      "snacks",
+      "family",
+      "have"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00019/1.jpg",
+      "https://images.example.com/products/PROD-00019/2.jpg"
+    ],
+    "stockQuantity": 60,
+    "specifications": {
+      "color": "Blue",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.252766Z",
+    "updatedAt": "2026-08-16T15:30:07.252766Z"
+  },
+  {
+    "productId": "PROD-00020",
+    "sku": "TOY-00020",
+    "name": "VividLife Stand-alone multimedia initiative",
+    "description": "Voice boy wife condition while enter. Others generation skill job. Break tonight couple and job mind southern.",
+    "brand": "VividLife",
+    "price": 870.79,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "tags": [
+      "toys",
+      "action-figures",
+      "right",
+      "serve"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00020/1.jpg",
+      "https://images.example.com/products/PROD-00020/2.jpg"
+    ],
+    "stockQuantity": 200,
+    "specifications": {
+      "color": "Red",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.252801Z",
+    "updatedAt": "2026-08-16T15:30:07.252801Z"
+  },
+  {
+    "productId": "PROD-00021",
+    "sku": "ELE-00021",
+    "name": "NovaTech User-centric user-facing secured line",
+    "description": "Issue we TV perhaps professional by. Medical project for recent never. Inside wait quality total past.",
+    "brand": "NovaTech",
+    "price": 794.19,
+    "salePrice": 660.94,
+    "currency": "INR",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "tags": [
+      "electronics",
+      "audio",
+      "fish",
+      "into"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00021/1.jpg",
+      "https://images.example.com/products/PROD-00021/2.jpg"
+    ],
+    "stockQuantity": 165,
+    "specifications": {
+      "color": "Black",
+      "material": "Aluminum",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.252851Z",
+    "updatedAt": "2026-08-16T15:30:07.252851Z"
+  },
+  {
+    "productId": "PROD-00022",
+    "sku": "GRO-00022",
+    "name": "CoreCraft Reactive 24hour framework",
+    "description": "Involve oil pressure let kind. Memory soldier where save probably.",
+    "brand": "CoreCraft",
+    "price": 962.71,
+    "salePrice": 758.92,
+    "currency": "USD",
+    "category": "Groceries",
+    "subcategory": "Pantry",
+    "tags": [
+      "groceries",
+      "pantry",
+      "federal",
+      "myself"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00022/1.jpg",
+      "https://images.example.com/products/PROD-00022/2.jpg"
+    ],
+    "stockQuantity": 108,
+    "specifications": {
+      "color": "White",
+      "material": "Plastic",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.252916Z",
+    "updatedAt": "2026-08-16T15:30:07.252916Z"
+  },
+  {
+    "productId": "PROD-00023",
+    "sku": "APP-00023",
+    "name": "CoreCraft Switchable scalable process improvement",
+    "description": "Stand seem pull different. Challenge animal worker particularly shoulder.",
+    "brand": "CoreCraft",
+    "price": 537.33,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Apparel",
+    "subcategory": "Men",
+    "tags": [
+      "apparel",
+      "men",
+      "lose",
+      "join"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00023/1.jpg",
+      "https://images.example.com/products/PROD-00023/2.jpg"
+    ],
+    "stockQuantity": 166,
+    "specifications": {
+      "color": "Silver",
+      "material": "Aluminum",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.252958Z",
+    "updatedAt": "2026-08-16T15:30:07.252958Z"
+  },
+  {
+    "productId": "PROD-00024",
+    "sku": "BEA-00024",
+    "name": "Lumina Self-enabling object-oriented core",
+    "description": "Hundred challenge reach throughout team those sing. Compare when military anyone eat. Lead soon property write.",
+    "brand": "Lumina",
+    "price": 207.91,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Haircare",
+    "tags": [
+      "beauty",
+      "haircare",
+      "physical",
+      "free"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00024/1.jpg",
+      "https://images.example.com/products/PROD-00024/2.jpg"
+    ],
+    "stockQuantity": 42,
+    "specifications": {
+      "color": "Red",
+      "material": "Aluminum",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.252999Z",
+    "updatedAt": "2026-08-16T15:30:07.252999Z"
+  },
+  {
+    "productId": "PROD-00025",
+    "sku": "HOM-00025",
+    "name": "CoreCraft Versatile leadingedge pricing structure",
+    "description": "Store natural today season listen else. Style everyone sing machine dream. Back experience even floor music catch. Him check degree increase former.",
+    "brand": "CoreCraft",
+    "price": 349.45,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Home Goods",
+    "subcategory": "Lighting",
+    "tags": [
+      "home-goods",
+      "lighting",
+      "man",
+      "just"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00025/1.jpg",
+      "https://images.example.com/products/PROD-00025/2.jpg"
+    ],
+    "stockQuantity": 124,
+    "specifications": {
+      "color": "White",
+      "material": "Cotton",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.253047Z",
+    "updatedAt": "2026-08-16T15:30:07.253047Z"
+  },
+  {
+    "productId": "PROD-00026",
+    "sku": "APP-00026",
+    "name": "EverPeak Centralized demand-driven instruction set",
+    "description": "Watch affect thing offer local wall fear hope. Mrs same son today major event.",
+    "brand": "EverPeak",
+    "price": 699.22,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Apparel",
+    "subcategory": "Men",
+    "tags": [
+      "apparel",
+      "men",
+      "mention",
+      "air"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00026/1.jpg",
+      "https://images.example.com/products/PROD-00026/2.jpg"
+    ],
+    "stockQuantity": 149,
+    "specifications": {
+      "color": "Red",
+      "material": "Steel",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.253746Z",
+    "updatedAt": "2026-08-16T15:30:07.253746Z"
+  },
+  {
+    "productId": "PROD-00027",
+    "sku": "APP-00027",
+    "name": "VividLife Networked global secured line",
+    "description": "Subject try wonder move. Option production base investment term consider.",
+    "brand": "VividLife",
+    "price": 1153.33,
+    "salePrice": 907.86,
+    "currency": "INR",
+    "category": "Apparel",
+    "subcategory": "Men",
+    "tags": [
+      "apparel",
+      "men",
+      "ever",
+      "hundred"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00027/1.jpg",
+      "https://images.example.com/products/PROD-00027/2.jpg"
+    ],
+    "stockQuantity": 220,
+    "specifications": {
+      "color": "White",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.253858Z",
+    "updatedAt": "2026-08-16T15:30:07.253858Z"
+  },
+  {
+    "productId": "PROD-00028",
+    "sku": "TOY-00028",
+    "name": "VividLife Inverse didactic knowledgebase",
+    "description": "Seven here sell story edge bank. See appear weight. Practice sit prepare senior wear. Stuff perform draw list boy.",
+    "brand": "VividLife",
+    "price": 698.91,
+    "salePrice": 535.64,
+    "currency": "INR",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "tags": [
+      "toys",
+      "action-figures",
+      "yourself",
+      "discover"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00028/1.jpg",
+      "https://images.example.com/products/PROD-00028/2.jpg"
+    ],
+    "stockQuantity": 80,
+    "specifications": {
+      "color": "Blue",
+      "material": "Cotton",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.253908Z",
+    "updatedAt": "2026-08-16T15:30:07.253908Z"
+  },
+  {
+    "productId": "PROD-00029",
+    "sku": "GRO-00029",
+    "name": "UrbanEdge Persistent tangible extranet",
+    "description": "Paper white responsibility sing. Who blue agent find. However resource away real physical big.",
+    "brand": "UrbanEdge",
+    "price": 294.04,
+    "salePrice": 260.03,
+    "currency": "EUR",
+    "category": "Groceries",
+    "subcategory": "Pantry",
+    "tags": [
+      "groceries",
+      "pantry",
+      "spring",
+      "fish"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00029/1.jpg",
+      "https://images.example.com/products/PROD-00029/2.jpg"
+    ],
+    "stockQuantity": 237,
+    "specifications": {
+      "color": "Black",
+      "material": "Aluminum",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.254088Z",
+    "updatedAt": "2026-08-16T15:30:07.254088Z"
+  },
+  {
+    "productId": "PROD-00030",
+    "sku": "TOY-00030",
+    "name": "EverPeak Synergized radical workforce",
+    "description": "Site girl into have media game support.",
+    "brand": "EverPeak",
+    "price": 97.18,
+    "salePrice": 78.04,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Games",
+    "tags": [
+      "toys",
+      "games",
+      "test",
+      "might"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00030/1.jpg",
+      "https://images.example.com/products/PROD-00030/2.jpg"
+    ],
+    "stockQuantity": 94,
+    "specifications": {
+      "color": "Blue",
+      "material": "Cotton",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.254167Z",
+    "updatedAt": "2026-08-16T15:30:07.254167Z"
+  },
+  {
+    "productId": "PROD-00031",
+    "sku": "BEA-00031",
+    "name": "CoreCraft Customer-focused intermediate hierarchy",
+    "description": "Itself safe whole establish. Simple let stay or focus early various.",
+    "brand": "CoreCraft",
+    "price": 737.9,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "tags": [
+      "beauty",
+      "makeup",
+      "family",
+      "upon"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00031/1.jpg",
+      "https://images.example.com/products/PROD-00031/2.jpg"
+    ],
+    "stockQuantity": 209,
+    "specifications": {
+      "color": "Silver",
+      "material": "Plastic",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.254277Z",
+    "updatedAt": "2026-08-16T15:30:07.254277Z"
+  },
+  {
+    "productId": "PROD-00032",
+    "sku": "ELE-00032",
+    "name": "CoreCraft Organized dynamic system engine",
+    "description": "Particular her agreement surface consider deep something. Evidence other they new might course.",
+    "brand": "CoreCraft",
+    "price": 324.71,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "tags": [
+      "electronics",
+      "laptops",
+      "effort",
+      "service"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00032/1.jpg",
+      "https://images.example.com/products/PROD-00032/2.jpg"
+    ],
+    "stockQuantity": 72,
+    "specifications": {
+      "color": "Silver",
+      "material": "Cotton",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.254327Z",
+    "updatedAt": "2026-08-16T15:30:07.254327Z"
+  },
+  {
+    "productId": "PROD-00033",
+    "sku": "HOM-00033",
+    "name": "CoreCraft Open-source mobile open architecture",
+    "description": "Position make society behavior develop reality fill. Hard network gas you nearly goal law fill.",
+    "brand": "CoreCraft",
+    "price": 828.12,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Home Goods",
+    "subcategory": "Furniture",
+    "tags": [
+      "home-goods",
+      "furniture",
+      "during",
+      "camera"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00033/1.jpg",
+      "https://images.example.com/products/PROD-00033/2.jpg"
+    ],
+    "stockQuantity": 231,
+    "specifications": {
+      "color": "Black",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.254447Z",
+    "updatedAt": "2026-08-16T15:30:07.254447Z"
+  },
+  {
+    "productId": "PROD-00034",
+    "sku": "BOO-00034",
+    "name": "UrbanEdge Up-sized content-based functionalities",
+    "description": "Week real course school everybody operation set.",
+    "brand": "UrbanEdge",
+    "price": 62.46,
+    "salePrice": 48.48,
+    "currency": "INR",
+    "category": "Books",
+    "subcategory": "Technology",
+    "tags": [
+      "books",
+      "technology",
+      "picture",
+      "fear"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00034/1.jpg",
+      "https://images.example.com/products/PROD-00034/2.jpg"
+    ],
+    "stockQuantity": 113,
+    "specifications": {
+      "color": "Silver",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.254539Z",
+    "updatedAt": "2026-08-16T15:30:07.254539Z"
+  },
+  {
+    "productId": "PROD-00035",
+    "sku": "ELE-00035",
+    "name": "Vertex Cross-platform content-based frame",
+    "description": "Conference add move ever window network. Point sell bill activity. Light key continue anything wait.",
+    "brand": "Vertex",
+    "price": 99.54,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "tags": [
+      "electronics",
+      "audio",
+      "mean",
+      "build"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00035/1.jpg",
+      "https://images.example.com/products/PROD-00035/2.jpg"
+    ],
+    "stockQuantity": 213,
+    "specifications": {
+      "color": "Blue",
+      "material": "Steel",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.254576Z",
+    "updatedAt": "2026-08-16T15:30:07.254576Z"
+  },
+  {
+    "productId": "PROD-00036",
+    "sku": "APP-00036",
+    "name": "NovaTech Cloned impactful matrix",
+    "description": "Picture approach chance none fight yes budget. Paper so difficult mission late kind.",
+    "brand": "NovaTech",
+    "price": 161.66,
+    "salePrice": 150.31,
+    "currency": "USD",
+    "category": "Apparel",
+    "subcategory": "Accessories",
+    "tags": [
+      "apparel",
+      "accessories",
+      "trade",
+      "per"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00036/1.jpg",
+      "https://images.example.com/products/PROD-00036/2.jpg"
+    ],
+    "stockQuantity": 174,
+    "specifications": {
+      "color": "White",
+      "material": "Aluminum",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.254628Z",
+    "updatedAt": "2026-08-16T15:30:07.254628Z"
+  },
+  {
+    "productId": "PROD-00037",
+    "sku": "BEA-00037",
+    "name": "Lumina Optimized fault-tolerant open system",
+    "description": "Participant science way debate. Enough ball dream necessary choose.",
+    "brand": "Lumina",
+    "price": 1168.87,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Fragrance",
+    "tags": [
+      "beauty",
+      "fragrance",
+      "issue",
+      "little"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00037/1.jpg",
+      "https://images.example.com/products/PROD-00037/2.jpg"
+    ],
+    "stockQuantity": 225,
+    "specifications": {
+      "color": "Red",
+      "material": "Aluminum",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.254672Z",
+    "updatedAt": "2026-08-16T15:30:07.254672Z"
+  },
+  {
+    "productId": "PROD-00038",
+    "sku": "GRO-00038",
+    "name": "Lumina Team-oriented radical leverage",
+    "description": "Discuss religious reflect. Author do enough social operation sound cup.",
+    "brand": "Lumina",
+    "price": 941.04,
+    "salePrice": 831.86,
+    "currency": "USD",
+    "category": "Groceries",
+    "subcategory": "Pantry",
+    "tags": [
+      "groceries",
+      "pantry",
+      "building",
+      "off"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00038/1.jpg",
+      "https://images.example.com/products/PROD-00038/2.jpg"
+    ],
+    "stockQuantity": 201,
+    "specifications": {
+      "color": "Black",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.254714Z",
+    "updatedAt": "2026-08-16T15:30:07.254714Z"
+  },
+  {
+    "productId": "PROD-00039",
+    "sku": "BEA-00039",
+    "name": "BrightNest Face-to-face secondary collaboration",
+    "description": "Author coach film see. Tv keep light fight I evening music.",
+    "brand": "BrightNest",
+    "price": 274.7,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Beauty",
+    "subcategory": "Fragrance",
+    "tags": [
+      "beauty",
+      "fragrance",
+      "left",
+      "be"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00039/1.jpg",
+      "https://images.example.com/products/PROD-00039/2.jpg"
+    ],
+    "stockQuantity": 210,
+    "specifications": {
+      "color": "White",
+      "material": "Cotton",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.254844Z",
+    "updatedAt": "2026-08-16T15:30:07.254844Z"
+  },
+  {
+    "productId": "PROD-00040",
+    "sku": "GRO-00040",
+    "name": "UrbanEdge Right-sized 6thgeneration Internet solution",
+    "description": "Economy before while structure offer week yourself public. Office several compare million kind. Consider one play man before.",
+    "brand": "UrbanEdge",
+    "price": 484.17,
+    "salePrice": 369.85,
+    "currency": "INR",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "tags": [
+      "groceries",
+      "beverages",
+      "happen",
+      "issue"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00040/1.jpg",
+      "https://images.example.com/products/PROD-00040/2.jpg"
+    ],
+    "stockQuantity": 130,
+    "specifications": {
+      "color": "Red",
+      "material": "Steel",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.254911Z",
+    "updatedAt": "2026-08-16T15:30:07.254911Z"
+  },
+  {
+    "productId": "PROD-00041",
+    "sku": "ELE-00041",
+    "name": "UrbanEdge Managed fresh-thinking secured line",
+    "description": "Form really explain war.",
+    "brand": "UrbanEdge",
+    "price": 1053.68,
+    "salePrice": 912.61,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "tags": [
+      "electronics",
+      "audio",
+      "teach",
+      "soon"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00041/1.jpg",
+      "https://images.example.com/products/PROD-00041/2.jpg"
+    ],
+    "stockQuantity": 152,
+    "specifications": {
+      "color": "Red",
+      "material": "Plastic",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.254962Z",
+    "updatedAt": "2026-08-16T15:30:07.254962Z"
+  },
+  {
+    "productId": "PROD-00042",
+    "sku": "BEA-00042",
+    "name": "Apex Reactive 5thgeneration knowledgebase",
+    "description": "Education break significant ten stay ability. Left approach million performance material kind appear.",
+    "brand": "Apex",
+    "price": 529.31,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "tags": [
+      "beauty",
+      "makeup",
+      "example",
+      "often"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00042/1.jpg",
+      "https://images.example.com/products/PROD-00042/2.jpg"
+    ],
+    "stockQuantity": 48,
+    "specifications": {
+      "color": "Blue",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.254997Z",
+    "updatedAt": "2026-08-16T15:30:07.254997Z"
+  },
+  {
+    "productId": "PROD-00043",
+    "sku": "BOO-00043",
+    "name": "Lumina De-engineered executive intranet",
+    "description": "Ahead picture son report. Nearly need behavior yeah tree. Water positive child usually factor relate indeed.",
+    "brand": "Lumina",
+    "price": 628.71,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Books",
+    "subcategory": "Fiction",
+    "tags": [
+      "books",
+      "fiction",
+      "meeting",
+      "marriage"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00043/1.jpg",
+      "https://images.example.com/products/PROD-00043/2.jpg"
+    ],
+    "stockQuantity": 17,
+    "specifications": {
+      "color": "Blue",
+      "material": "Steel",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.255059Z",
+    "updatedAt": "2026-08-16T15:30:07.255059Z"
+  },
+  {
+    "productId": "PROD-00044",
+    "sku": "GRO-00044",
+    "name": "Nexora Fully-configurable logistical neural-net",
+    "description": "Course out second carry attorney significant. Future skin environment able rise study.",
+    "brand": "Nexora",
+    "price": 866.51,
+    "salePrice": 703.48,
+    "currency": "EUR",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "tags": [
+      "groceries",
+      "snacks",
+      "particularly",
+      "receive"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00044/1.jpg",
+      "https://images.example.com/products/PROD-00044/2.jpg"
+    ],
+    "stockQuantity": 178,
+    "specifications": {
+      "color": "Blue",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.255132Z",
+    "updatedAt": "2026-08-16T15:30:07.255132Z"
+  },
+  {
+    "productId": "PROD-00045",
+    "sku": "APP-00045",
+    "name": "Vertex Pre-emptive coherent knowledge user",
+    "description": "Generation necessary myself lay focus country recently. Him task improve fish list tree high. Manager already maybe opportunity. Them key moment lead. Improve pressure child light.",
+    "brand": "Vertex",
+    "price": 801.27,
+    "salePrice": 720.84,
+    "currency": "INR",
+    "category": "Apparel",
+    "subcategory": "Accessories",
+    "tags": [
+      "apparel",
+      "accessories",
+      "evidence",
+      "ground"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00045/1.jpg",
+      "https://images.example.com/products/PROD-00045/2.jpg"
+    ],
+    "stockQuantity": 77,
+    "specifications": {
+      "color": "Red",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.255174Z",
+    "updatedAt": "2026-08-16T15:30:07.255174Z"
+  },
+  {
+    "productId": "PROD-00046",
+    "sku": "HOM-00046",
+    "name": "VividLife Secured system-worthy infrastructure",
+    "description": "System teacher here first responsibility service. Along attention piece TV young section its.",
+    "brand": "VividLife",
+    "price": 260.12,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Home Goods",
+    "subcategory": "Decor",
+    "tags": [
+      "home-goods",
+      "decor",
+      "billion",
+      "soon"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00046/1.jpg",
+      "https://images.example.com/products/PROD-00046/2.jpg"
+    ],
+    "stockQuantity": 119,
+    "specifications": {
+      "color": "Red",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.255237Z",
+    "updatedAt": "2026-08-16T15:30:07.255237Z"
+  },
+  {
+    "productId": "PROD-00047",
+    "sku": "APP-00047",
+    "name": "Vertex Sharable tertiary attitude",
+    "description": "Really tough animal someone. Grow issue each include radio. Color bad that people. Marriage on discussion point least.",
+    "brand": "Vertex",
+    "price": 954.55,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Apparel",
+    "subcategory": "Accessories",
+    "tags": [
+      "apparel",
+      "accessories",
+      "reflect",
+      "act"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00047/1.jpg",
+      "https://images.example.com/products/PROD-00047/2.jpg"
+    ],
+    "stockQuantity": 72,
+    "specifications": {
+      "color": "Silver",
+      "material": "Steel",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.255287Z",
+    "updatedAt": "2026-08-16T15:30:07.255287Z"
+  },
+  {
+    "productId": "PROD-00048",
+    "sku": "ELE-00048",
+    "name": "NovaTech Persistent executive service-desk",
+    "description": "Available war write federal. Real lead few yourself table blood.",
+    "brand": "NovaTech",
+    "price": 810.63,
+    "salePrice": 640.26,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "tags": [
+      "electronics",
+      "laptops",
+      "i",
+      "owner"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00048/1.jpg",
+      "https://images.example.com/products/PROD-00048/2.jpg"
+    ],
+    "stockQuantity": 121,
+    "specifications": {
+      "color": "Silver",
+      "material": "Aluminum",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.255360Z",
+    "updatedAt": "2026-08-16T15:30:07.255360Z"
+  },
+  {
+    "productId": "PROD-00049",
+    "sku": "BOO-00049",
+    "name": "Vertex Multi-channeled object-oriented frame",
+    "description": "Within probably ever. Ten sing wind treat seat strategy total. Parent good PM per question.",
+    "brand": "Vertex",
+    "price": 864.83,
+    "salePrice": 717.75,
+    "currency": "INR",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "tags": [
+      "books",
+      "non-fiction",
+      "set",
+      "speak"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00049/1.jpg",
+      "https://images.example.com/products/PROD-00049/2.jpg"
+    ],
+    "stockQuantity": 1,
+    "specifications": {
+      "color": "Black",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.255409Z",
+    "updatedAt": "2026-08-16T15:30:07.255409Z"
+  },
+  {
+    "productId": "PROD-00050",
+    "sku": "APP-00050",
+    "name": "BrightNest Switchable systemic challenge",
+    "description": "Tough position final kid. Half capital travel force indeed customer skill theory.",
+    "brand": "BrightNest",
+    "price": 69.76,
+    "salePrice": 64.16,
+    "currency": "EUR",
+    "category": "Apparel",
+    "subcategory": "Accessories",
+    "tags": [
+      "apparel",
+      "accessories",
+      "history",
+      "nice"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00050/1.jpg",
+      "https://images.example.com/products/PROD-00050/2.jpg"
+    ],
+    "stockQuantity": 170,
+    "specifications": {
+      "color": "Silver",
+      "material": "Steel",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.255459Z",
+    "updatedAt": "2026-08-16T15:30:07.255459Z"
+  },
+  {
+    "productId": "PROD-00051",
+    "sku": "HOM-00051",
+    "name": "CoreCraft Profit-focused encompassing concept",
+    "description": "Whose far that sound life away senior. Team right woman whose source.",
+    "brand": "CoreCraft",
+    "price": 739.06,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Home Goods",
+    "subcategory": "Lighting",
+    "tags": [
+      "home-goods",
+      "lighting",
+      "history",
+      "believe"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00051/1.jpg",
+      "https://images.example.com/products/PROD-00051/2.jpg"
+    ],
+    "stockQuantity": 114,
+    "specifications": {
+      "color": "White",
+      "material": "Wood",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.255501Z",
+    "updatedAt": "2026-08-16T15:30:07.255501Z"
+  },
+  {
+    "productId": "PROD-00052",
+    "sku": "HOM-00052",
+    "name": "BrightNest Object-based 24/7 firmware",
+    "description": "Lawyer pull public once. Board doctor agent this no trip. Positive play less red power. Cause watch fight manage. Doctor Mr home he.",
+    "brand": "BrightNest",
+    "price": 1009.44,
+    "salePrice": 914.08,
+    "currency": "USD",
+    "category": "Home Goods",
+    "subcategory": "Furniture",
+    "tags": [
+      "home-goods",
+      "furniture",
+      "situation",
+      "same"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00052/1.jpg",
+      "https://images.example.com/products/PROD-00052/2.jpg"
+    ],
+    "stockQuantity": 70,
+    "specifications": {
+      "color": "Red",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.255543Z",
+    "updatedAt": "2026-08-16T15:30:07.255543Z"
+  },
+  {
+    "productId": "PROD-00053",
+    "sku": "HOM-00053",
+    "name": "Vertex Quality-focused intangible parallelism",
+    "description": "Pressure street past voice evidence real.",
+    "brand": "Vertex",
+    "price": 333.34,
+    "salePrice": 286.02,
+    "currency": "USD",
+    "category": "Home Goods",
+    "subcategory": "Furniture",
+    "tags": [
+      "home-goods",
+      "furniture",
+      "director",
+      "life"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00053/1.jpg",
+      "https://images.example.com/products/PROD-00053/2.jpg"
+    ],
+    "stockQuantity": 98,
+    "specifications": {
+      "color": "White",
+      "material": "Cotton",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.255605Z",
+    "updatedAt": "2026-08-16T15:30:07.255605Z"
+  },
+  {
+    "productId": "PROD-00054",
+    "sku": "BOO-00054",
+    "name": "NovaTech Organic disintermediate hierarchy",
+    "description": "Name within grow huge couple business.",
+    "brand": "NovaTech",
+    "price": 403.75,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Books",
+    "subcategory": "Education",
+    "tags": [
+      "books",
+      "education",
+      "thus",
+      "than"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00054/1.jpg",
+      "https://images.example.com/products/PROD-00054/2.jpg"
+    ],
+    "stockQuantity": 99,
+    "specifications": {
+      "color": "Silver",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.255638Z",
+    "updatedAt": "2026-08-16T15:30:07.255638Z"
+  },
+  {
+    "productId": "PROD-00055",
+    "sku": "BOO-00055",
+    "name": "Nexora Persevering background protocol",
+    "description": "Wife anything four writer skin day stop never. Democratic thank forget challenge too able teach certain. Music sometimes body term.",
+    "brand": "Nexora",
+    "price": 17.02,
+    "salePrice": 15.33,
+    "currency": "INR",
+    "category": "Books",
+    "subcategory": "Education",
+    "tags": [
+      "books",
+      "education",
+      "catch",
+      "administration"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00055/1.jpg",
+      "https://images.example.com/products/PROD-00055/2.jpg"
+    ],
+    "stockQuantity": 188,
+    "specifications": {
+      "color": "Silver",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.255703Z",
+    "updatedAt": "2026-08-16T15:30:07.255703Z"
+  },
+  {
+    "productId": "PROD-00056",
+    "sku": "BOO-00056",
+    "name": "Nexora Multi-channeled zero tolerance encoding",
+    "description": "Administration enter camera inside box as. Sing message board mean war analysis situation. Feeling poor all your suggest international blue. Available ball part assume every plan.",
+    "brand": "Nexora",
+    "price": 334.79,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "tags": [
+      "books",
+      "non-fiction",
+      "official",
+      "seem"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00056/1.jpg",
+      "https://images.example.com/products/PROD-00056/2.jpg"
+    ],
+    "stockQuantity": 173,
+    "specifications": {
+      "color": "Red",
+      "material": "Cotton",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.255797Z",
+    "updatedAt": "2026-08-16T15:30:07.255797Z"
+  },
+  {
+    "productId": "PROD-00057",
+    "sku": "APP-00057",
+    "name": "NovaTech Inverse homogeneous policy",
+    "description": "Law painting between reduce table. Result Democrat later direction fund law indeed.",
+    "brand": "NovaTech",
+    "price": 1089.25,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Apparel",
+    "subcategory": "Men",
+    "tags": [
+      "apparel",
+      "men",
+      "beyond",
+      "form"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00057/1.jpg",
+      "https://images.example.com/products/PROD-00057/2.jpg"
+    ],
+    "stockQuantity": 109,
+    "specifications": {
+      "color": "White",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.255963Z",
+    "updatedAt": "2026-08-16T15:30:07.255963Z"
+  },
+  {
+    "productId": "PROD-00058",
+    "sku": "ELE-00058",
+    "name": "Nexora Optimized foreground secured line",
+    "description": "Well rather listen before be it. Speech news only no form business.",
+    "brand": "Nexora",
+    "price": 461.13,
+    "salePrice": 375.99,
+    "currency": "EUR",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "tags": [
+      "electronics",
+      "smartphones",
+      "health",
+      "tv"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00058/1.jpg",
+      "https://images.example.com/products/PROD-00058/2.jpg"
+    ],
+    "stockQuantity": 64,
+    "specifications": {
+      "color": "Black",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.256014Z",
+    "updatedAt": "2026-08-16T15:30:07.256014Z"
+  },
+  {
+    "productId": "PROD-00059",
+    "sku": "GRO-00059",
+    "name": "NovaTech Synchronized web-enabled interface",
+    "description": "Outside goal official defense prevent.",
+    "brand": "NovaTech",
+    "price": 1199.89,
+    "salePrice": 1055.94,
+    "currency": "USD",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "tags": [
+      "groceries",
+      "snacks",
+      "door",
+      "throw"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00059/1.jpg",
+      "https://images.example.com/products/PROD-00059/2.jpg"
+    ],
+    "stockQuantity": 51,
+    "specifications": {
+      "color": "Black",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.256076Z",
+    "updatedAt": "2026-08-16T15:30:07.256076Z"
+  },
+  {
+    "productId": "PROD-00060",
+    "sku": "APP-00060",
+    "name": "BrightNest Customer-focused grid-enabled open architecture",
+    "description": "Several off southern suddenly. Party poor ago upon stop environment Congress reflect. Tv go consider century price. Center plan air second.",
+    "brand": "BrightNest",
+    "price": 573.54,
+    "salePrice": 538.87,
+    "currency": "EUR",
+    "category": "Apparel",
+    "subcategory": "Women",
+    "tags": [
+      "apparel",
+      "women",
+      "dinner",
+      "however"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00060/1.jpg",
+      "https://images.example.com/products/PROD-00060/2.jpg"
+    ],
+    "stockQuantity": 196,
+    "specifications": {
+      "color": "Blue",
+      "material": "Cotton",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.256112Z",
+    "updatedAt": "2026-08-16T15:30:07.256112Z"
+  },
+  {
+    "productId": "PROD-00061",
+    "sku": "TOY-00061",
+    "name": "VividLife Operative logistical Graphical User Interface",
+    "description": "Find food walk other third choose.",
+    "brand": "VividLife",
+    "price": 935.57,
+    "salePrice": 759.88,
+    "currency": "EUR",
+    "category": "Toys",
+    "subcategory": "Games",
+    "tags": [
+      "toys",
+      "games",
+      "somebody",
+      "prepare"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00061/1.jpg",
+      "https://images.example.com/products/PROD-00061/2.jpg"
+    ],
+    "stockQuantity": 147,
+    "specifications": {
+      "color": "Red",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.256202Z",
+    "updatedAt": "2026-08-16T15:30:07.256202Z"
+  },
+  {
+    "productId": "PROD-00062",
+    "sku": "APP-00062",
+    "name": "Lumina Business-focused systematic artificial intelligence",
+    "description": "Product magazine kind event sense box.",
+    "brand": "Lumina",
+    "price": 714.6,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Apparel",
+    "subcategory": "Men",
+    "tags": [
+      "apparel",
+      "men",
+      "law",
+      "bring"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00062/1.jpg",
+      "https://images.example.com/products/PROD-00062/2.jpg"
+    ],
+    "stockQuantity": 197,
+    "specifications": {
+      "color": "Blue",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.256238Z",
+    "updatedAt": "2026-08-16T15:30:07.256238Z"
+  },
+  {
+    "productId": "PROD-00063",
+    "sku": "BEA-00063",
+    "name": "CoreCraft Horizontal systematic service-desk",
+    "description": "Money final determine worker area daughter war. Share face build market. Compare herself region matter street south. However score job least. Television office of remember.",
+    "brand": "CoreCraft",
+    "price": 423.17,
+    "salePrice": 348.74,
+    "currency": "EUR",
+    "category": "Beauty",
+    "subcategory": "Skincare",
+    "tags": [
+      "beauty",
+      "skincare",
+      "key",
+      "figure"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00063/1.jpg",
+      "https://images.example.com/products/PROD-00063/2.jpg"
+    ],
+    "stockQuantity": 3,
+    "specifications": {
+      "color": "Red",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.256349Z",
+    "updatedAt": "2026-08-16T15:30:07.256349Z"
+  },
+  {
+    "productId": "PROD-00064",
+    "sku": "BOO-00064",
+    "name": "Vertex Customizable impactful adapter",
+    "description": "Soon peace story turn. Join black job hundred. How financial fund four.",
+    "brand": "Vertex",
+    "price": 766.35,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Technology",
+    "tags": [
+      "books",
+      "technology",
+      "concern",
+      "ball"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00064/1.jpg",
+      "https://images.example.com/products/PROD-00064/2.jpg"
+    ],
+    "stockQuantity": 187,
+    "specifications": {
+      "color": "Silver",
+      "material": "Plastic",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.256447Z",
+    "updatedAt": "2026-08-16T15:30:07.256447Z"
+  },
+  {
+    "productId": "PROD-00065",
+    "sku": "BEA-00065",
+    "name": "VividLife Profound scalable budgetary management",
+    "description": "Create simply go when population challenge bill. Culture own set pretty concern. Management senior service large under north play person.",
+    "brand": "VividLife",
+    "price": 563.2,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Beauty",
+    "subcategory": "Fragrance",
+    "tags": [
+      "beauty",
+      "fragrance",
+      "treat",
+      "product"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00065/1.jpg",
+      "https://images.example.com/products/PROD-00065/2.jpg"
+    ],
+    "stockQuantity": 218,
+    "specifications": {
+      "color": "White",
+      "material": "Aluminum",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.256497Z",
+    "updatedAt": "2026-08-16T15:30:07.256497Z"
+  },
+  {
+    "productId": "PROD-00066",
+    "sku": "BOO-00066",
+    "name": "Nexora Intuitive coherent intranet",
+    "description": "Kind field ever argue medical financial later. Hard expert popular within.",
+    "brand": "Nexora",
+    "price": 903.07,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "tags": [
+      "books",
+      "non-fiction",
+      "believe",
+      "possible"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00066/1.jpg",
+      "https://images.example.com/products/PROD-00066/2.jpg"
+    ],
+    "stockQuantity": 126,
+    "specifications": {
+      "color": "Blue",
+      "material": "Cotton",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.256575Z",
+    "updatedAt": "2026-08-16T15:30:07.256575Z"
+  },
+  {
+    "productId": "PROD-00067",
+    "sku": "APP-00067",
+    "name": "UrbanEdge Right-sized motivating info-mediaries",
+    "description": "Never social time last special prepare focus little. Whatever late specific study. Mean common easy just. Model particular hair truth hold simple.",
+    "brand": "UrbanEdge",
+    "price": 959.42,
+    "salePrice": 888.48,
+    "currency": "USD",
+    "category": "Apparel",
+    "subcategory": "Footwear",
+    "tags": [
+      "apparel",
+      "footwear",
+      "respond",
+      "piece"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00067/1.jpg",
+      "https://images.example.com/products/PROD-00067/2.jpg"
+    ],
+    "stockQuantity": 132,
+    "specifications": {
+      "color": "White",
+      "material": "Aluminum",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.256619Z",
+    "updatedAt": "2026-08-16T15:30:07.256619Z"
+  },
+  {
+    "productId": "PROD-00068",
+    "sku": "GRO-00068",
+    "name": "BrightNest Business-focused responsive project",
+    "description": "Form newspaper hit edge. Their four old center glass whose recognize hot. Remember be next poor foreign campaign reflect water. Behavior provide meet adult final week game.",
+    "brand": "BrightNest",
+    "price": 591.41,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Groceries",
+    "subcategory": "Organic",
+    "tags": [
+      "groceries",
+      "organic",
+      "space",
+      "mention"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00068/1.jpg",
+      "https://images.example.com/products/PROD-00068/2.jpg"
+    ],
+    "stockQuantity": 125,
+    "specifications": {
+      "color": "Red",
+      "material": "Aluminum",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.256755Z",
+    "updatedAt": "2026-08-16T15:30:07.256755Z"
+  },
+  {
+    "productId": "PROD-00069",
+    "sku": "HOM-00069",
+    "name": "EverPeak Ergonomic directional challenge",
+    "description": "Fast small medical music. Also from short capital heavy class story.",
+    "brand": "EverPeak",
+    "price": 491.24,
+    "salePrice": 433.66,
+    "currency": "INR",
+    "category": "Home Goods",
+    "subcategory": "Furniture",
+    "tags": [
+      "home-goods",
+      "furniture",
+      "spend",
+      "probably"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00069/1.jpg",
+      "https://images.example.com/products/PROD-00069/2.jpg"
+    ],
+    "stockQuantity": 135,
+    "specifications": {
+      "color": "Blue",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.256910Z",
+    "updatedAt": "2026-08-16T15:30:07.256910Z"
+  },
+  {
+    "productId": "PROD-00070",
+    "sku": "TOY-00070",
+    "name": "UrbanEdge Down-sized uniform intranet",
+    "description": "Hair rest wide particular sell six.",
+    "brand": "UrbanEdge",
+    "price": 428.65,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Educational",
+    "tags": [
+      "toys",
+      "educational",
+      "east",
+      "none"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00070/1.jpg",
+      "https://images.example.com/products/PROD-00070/2.jpg"
+    ],
+    "stockQuantity": 30,
+    "specifications": {
+      "color": "White",
+      "material": "Plastic",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.257000Z",
+    "updatedAt": "2026-08-16T15:30:07.257000Z"
+  },
+  {
+    "productId": "PROD-00071",
+    "sku": "GRO-00071",
+    "name": "UrbanEdge Front-line fault-tolerant workforce",
+    "description": "Happy water worker left example. Me industry class current painting their. Political them never. Represent middle by base.",
+    "brand": "UrbanEdge",
+    "price": 237.93,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "tags": [
+      "groceries",
+      "beverages",
+      "college",
+      "explain"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00071/1.jpg",
+      "https://images.example.com/products/PROD-00071/2.jpg"
+    ],
+    "stockQuantity": 250,
+    "specifications": {
+      "color": "Silver",
+      "material": "Steel",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.257115Z",
+    "updatedAt": "2026-08-16T15:30:07.257115Z"
+  },
+  {
+    "productId": "PROD-00072",
+    "sku": "ELE-00072",
+    "name": "CoreCraft Organized multimedia circuit",
+    "description": "Watch develop later glass. Increase how hear.",
+    "brand": "CoreCraft",
+    "price": 362.53,
+    "salePrice": 293.81,
+    "currency": "EUR",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "tags": [
+      "electronics",
+      "laptops",
+      "imagine",
+      "beat"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00072/1.jpg",
+      "https://images.example.com/products/PROD-00072/2.jpg"
+    ],
+    "stockQuantity": 11,
+    "specifications": {
+      "color": "Black",
+      "material": "Steel",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.257259Z",
+    "updatedAt": "2026-08-16T15:30:07.257259Z"
+  },
+  {
+    "productId": "PROD-00073",
+    "sku": "GRO-00073",
+    "name": "Apex Multi-layered directional algorithm",
+    "description": "Stuff practice social case. True line story serve light.",
+    "brand": "Apex",
+    "price": 769.06,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "tags": [
+      "groceries",
+      "beverages",
+      "power",
+      "accept"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00073/1.jpg",
+      "https://images.example.com/products/PROD-00073/2.jpg"
+    ],
+    "stockQuantity": 72,
+    "specifications": {
+      "color": "Red",
+      "material": "Wood",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.257359Z",
+    "updatedAt": "2026-08-16T15:30:07.257359Z"
+  },
+  {
+    "productId": "PROD-00074",
+    "sku": "HOM-00074",
+    "name": "Apex Configurable 3rdgeneration extranet",
+    "description": "Nature road month book.",
+    "brand": "Apex",
+    "price": 1158.94,
+    "salePrice": 1068.94,
+    "currency": "EUR",
+    "category": "Home Goods",
+    "subcategory": "Furniture",
+    "tags": [
+      "home-goods",
+      "furniture",
+      "fight",
+      "economy"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00074/1.jpg",
+      "https://images.example.com/products/PROD-00074/2.jpg"
+    ],
+    "stockQuantity": 125,
+    "specifications": {
+      "color": "Black",
+      "material": "Steel",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.257501Z",
+    "updatedAt": "2026-08-16T15:30:07.257501Z"
+  },
+  {
+    "productId": "PROD-00075",
+    "sku": "GRO-00075",
+    "name": "UrbanEdge Innovative bottom-line application",
+    "description": "Police performance artist student matter movie.",
+    "brand": "UrbanEdge",
+    "price": 190.56,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "tags": [
+      "groceries",
+      "snacks",
+      "project",
+      "myself"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00075/1.jpg",
+      "https://images.example.com/products/PROD-00075/2.jpg"
+    ],
+    "stockQuantity": 30,
+    "specifications": {
+      "color": "Silver",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.257550Z",
+    "updatedAt": "2026-08-16T15:30:07.257550Z"
+  },
+  {
+    "productId": "PROD-00076",
+    "sku": "TOY-00076",
+    "name": "UrbanEdge Re-engineered disintermediate structure",
+    "description": "Investment pass drive indicate professor. Model guess well name. Never hospital like player wonder effect administration.",
+    "brand": "UrbanEdge",
+    "price": 933.08,
+    "salePrice": 869.35,
+    "currency": "EUR",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "tags": [
+      "toys",
+      "action-figures",
+      "story",
+      "author"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00076/1.jpg",
+      "https://images.example.com/products/PROD-00076/2.jpg"
+    ],
+    "stockQuantity": 78,
+    "specifications": {
+      "color": "Silver",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.257937Z",
+    "updatedAt": "2026-08-16T15:30:07.257937Z"
+  },
+  {
+    "productId": "PROD-00077",
+    "sku": "TOY-00077",
+    "name": "Apex Monitored disintermediate superstructure",
+    "description": "Sign same forward and. Full poor store range wonder long consider.",
+    "brand": "Apex",
+    "price": 1137.63,
+    "salePrice": 901.24,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Games",
+    "tags": [
+      "toys",
+      "games",
+      "central",
+      "at"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00077/1.jpg",
+      "https://images.example.com/products/PROD-00077/2.jpg"
+    ],
+    "stockQuantity": 44,
+    "specifications": {
+      "color": "Silver",
+      "material": "Aluminum",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.258205Z",
+    "updatedAt": "2026-08-16T15:30:07.258205Z"
+  },
+  {
+    "productId": "PROD-00078",
+    "sku": "ELE-00078",
+    "name": "UrbanEdge Universal zero-defect knowledgebase",
+    "description": "Cut social though firm financial.",
+    "brand": "UrbanEdge",
+    "price": 546.1,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "tags": [
+      "electronics",
+      "accessories",
+      "information",
+      "teacher"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00078/1.jpg",
+      "https://images.example.com/products/PROD-00078/2.jpg"
+    ],
+    "stockQuantity": 73,
+    "specifications": {
+      "color": "Blue",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.258399Z",
+    "updatedAt": "2026-08-16T15:30:07.258399Z"
+  },
+  {
+    "productId": "PROD-00079",
+    "sku": "GRO-00079",
+    "name": "VividLife Quality-focused methodical extranet",
+    "description": "Experience television answer pretty event. Join hundred keep what fund cost.",
+    "brand": "VividLife",
+    "price": 1109.45,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "tags": [
+      "groceries",
+      "beverages",
+      "role",
+      "modern"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00079/1.jpg",
+      "https://images.example.com/products/PROD-00079/2.jpg"
+    ],
+    "stockQuantity": 108,
+    "specifications": {
+      "color": "Black",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.258521Z",
+    "updatedAt": "2026-08-16T15:30:07.258521Z"
+  },
+  {
+    "productId": "PROD-00080",
+    "sku": "GRO-00080",
+    "name": "Apex Multi-layered multi-state flexibility",
+    "description": "Bad own state nation fly bag.",
+    "brand": "Apex",
+    "price": 1091.01,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "tags": [
+      "groceries",
+      "beverages",
+      "recent",
+      "find"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00080/1.jpg",
+      "https://images.example.com/products/PROD-00080/2.jpg"
+    ],
+    "stockQuantity": 202,
+    "specifications": {
+      "color": "Blue",
+      "material": "Steel",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.258594Z",
+    "updatedAt": "2026-08-16T15:30:07.258594Z"
+  },
+  {
+    "productId": "PROD-00081",
+    "sku": "BEA-00081",
+    "name": "UrbanEdge Integrated local portal",
+    "description": "Ready goal amount thank. Past itself police social arm provide. Guy song quickly well central parent. Alone attack sing hand him note.",
+    "brand": "UrbanEdge",
+    "price": 532.59,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "tags": [
+      "beauty",
+      "makeup",
+      "point",
+      "class"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00081/1.jpg",
+      "https://images.example.com/products/PROD-00081/2.jpg"
+    ],
+    "stockQuantity": 241,
+    "specifications": {
+      "color": "Blue",
+      "material": "Steel",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.258640Z",
+    "updatedAt": "2026-08-16T15:30:07.258640Z"
+  },
+  {
+    "productId": "PROD-00082",
+    "sku": "BOO-00082",
+    "name": "EverPeak Synergistic local hub",
+    "description": "Several off morning huge power economic. Ago control military trial. Energy employee land you. Really your customer career available.",
+    "brand": "EverPeak",
+    "price": 105.73,
+    "salePrice": 88.43,
+    "currency": "EUR",
+    "category": "Books",
+    "subcategory": "Education",
+    "tags": [
+      "books",
+      "education",
+      "consider",
+      "way"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00082/1.jpg",
+      "https://images.example.com/products/PROD-00082/2.jpg"
+    ],
+    "stockQuantity": 6,
+    "specifications": {
+      "color": "Black",
+      "material": "Cotton",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.258811Z",
+    "updatedAt": "2026-08-16T15:30:07.258811Z"
+  },
+  {
+    "productId": "PROD-00083",
+    "sku": "BEA-00083",
+    "name": "UrbanEdge Universal leadingedge array",
+    "description": "Remember nearly face feel church remember. Soldier meeting building cut. Door management guess occur. Sound necessary partner beat finally yourself rest.",
+    "brand": "UrbanEdge",
+    "price": 1199.49,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Skincare",
+    "tags": [
+      "beauty",
+      "skincare",
+      "never",
+      "item"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00083/1.jpg",
+      "https://images.example.com/products/PROD-00083/2.jpg"
+    ],
+    "stockQuantity": 195,
+    "specifications": {
+      "color": "White",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.258938Z",
+    "updatedAt": "2026-08-16T15:30:07.258938Z"
+  },
+  {
+    "productId": "PROD-00084",
+    "sku": "GRO-00084",
+    "name": "BrightNest Visionary incremental orchestration",
+    "description": "Win politics last quite.",
+    "brand": "BrightNest",
+    "price": 1100.13,
+    "salePrice": 953.89,
+    "currency": "EUR",
+    "category": "Groceries",
+    "subcategory": "Organic",
+    "tags": [
+      "groceries",
+      "organic",
+      "guy",
+      "career"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00084/1.jpg",
+      "https://images.example.com/products/PROD-00084/2.jpg"
+    ],
+    "stockQuantity": 89,
+    "specifications": {
+      "color": "Red",
+      "material": "Plastic",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.259073Z",
+    "updatedAt": "2026-08-16T15:30:07.259073Z"
+  },
+  {
+    "productId": "PROD-00085",
+    "sku": "GRO-00085",
+    "name": "UrbanEdge Vision-oriented neutral productivity",
+    "description": "Should can me than. Million fight class various. Generation wait thus suffer economy. Ever person pass behavior political option oil. Probably result painting successful.",
+    "brand": "UrbanEdge",
+    "price": 1030.7,
+    "salePrice": 916.02,
+    "currency": "EUR",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "tags": [
+      "groceries",
+      "snacks",
+      "organization",
+      "analysis"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00085/1.jpg",
+      "https://images.example.com/products/PROD-00085/2.jpg"
+    ],
+    "stockQuantity": 208,
+    "specifications": {
+      "color": "Silver",
+      "material": "Aluminum",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.259277Z",
+    "updatedAt": "2026-08-16T15:30:07.259277Z"
+  },
+  {
+    "productId": "PROD-00086",
+    "sku": "ELE-00086",
+    "name": "CoreCraft Assimilated attitude-oriented analyzer",
+    "description": "Prepare short indicate police marriage. Nation politics few each southern image law read.",
+    "brand": "CoreCraft",
+    "price": 310.35,
+    "salePrice": 280.71,
+    "currency": "INR",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "tags": [
+      "electronics",
+      "smartphones",
+      "coach",
+      "less"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00086/1.jpg",
+      "https://images.example.com/products/PROD-00086/2.jpg"
+    ],
+    "stockQuantity": 222,
+    "specifications": {
+      "color": "Silver",
+      "material": "Wood",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.259458Z",
+    "updatedAt": "2026-08-16T15:30:07.259458Z"
+  },
+  {
+    "productId": "PROD-00087",
+    "sku": "ELE-00087",
+    "name": "BrightNest Operative mission-critical Local Area Network",
+    "description": "Parent fine responsibility safe team wish. Set middle blood drop. Environment easy best face.",
+    "brand": "BrightNest",
+    "price": 626.94,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "tags": [
+      "electronics",
+      "laptops",
+      "if",
+      "treat"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00087/1.jpg",
+      "https://images.example.com/products/PROD-00087/2.jpg"
+    ],
+    "stockQuantity": 194,
+    "specifications": {
+      "color": "Black",
+      "material": "Cotton",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.259567Z",
+    "updatedAt": "2026-08-16T15:30:07.259567Z"
+  },
+  {
+    "productId": "PROD-00088",
+    "sku": "TOY-00088",
+    "name": "Apex Seamless intangible encryption",
+    "description": "Value return couple city you level.",
+    "brand": "Apex",
+    "price": 1113.93,
+    "salePrice": 991.01,
+    "currency": "INR",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "tags": [
+      "toys",
+      "action-figures",
+      "until",
+      "foot"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00088/1.jpg",
+      "https://images.example.com/products/PROD-00088/2.jpg"
+    ],
+    "stockQuantity": 155,
+    "specifications": {
+      "color": "White",
+      "material": "Cotton",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.259664Z",
+    "updatedAt": "2026-08-16T15:30:07.259664Z"
+  },
+  {
+    "productId": "PROD-00089",
+    "sku": "TOY-00089",
+    "name": "Apex Proactive 3rdgeneration array",
+    "description": "Lead drive on any example our successful. Experience account blue care enough hand idea. Hundred now crime.",
+    "brand": "Apex",
+    "price": 667.18,
+    "salePrice": 632.79,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Games",
+    "tags": [
+      "toys",
+      "games",
+      "on",
+      "fight"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00089/1.jpg",
+      "https://images.example.com/products/PROD-00089/2.jpg"
+    ],
+    "stockQuantity": 165,
+    "specifications": {
+      "color": "White",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.259720Z",
+    "updatedAt": "2026-08-16T15:30:07.259720Z"
+  },
+  {
+    "productId": "PROD-00090",
+    "sku": "HOM-00090",
+    "name": "BrightNest Compatible human-resource middleware",
+    "description": "Evidence writer quite budget window hour some. Newspaper hand certain own husband American.",
+    "brand": "BrightNest",
+    "price": 504.43,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Home Goods",
+    "subcategory": "Decor",
+    "tags": [
+      "home-goods",
+      "decor",
+      "american",
+      "certain"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00090/1.jpg",
+      "https://images.example.com/products/PROD-00090/2.jpg"
+    ],
+    "stockQuantity": 141,
+    "specifications": {
+      "color": "White",
+      "material": "Wood",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.259770Z",
+    "updatedAt": "2026-08-16T15:30:07.259770Z"
+  },
+  {
+    "productId": "PROD-00091",
+    "sku": "TOY-00091",
+    "name": "Nexora Universal full-range website",
+    "description": "Lead paper middle foreign party class wrong. Order medical meeting majority none. Staff happy purpose woman on someone rise.",
+    "brand": "Nexora",
+    "price": 1038.19,
+    "salePrice": 942.68,
+    "currency": "INR",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "tags": [
+      "toys",
+      "action-figures",
+      "rise",
+      "professional"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00091/1.jpg",
+      "https://images.example.com/products/PROD-00091/2.jpg"
+    ],
+    "stockQuantity": 68,
+    "specifications": {
+      "color": "Black",
+      "material": "Plastic",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.259841Z",
+    "updatedAt": "2026-08-16T15:30:07.259841Z"
+  },
+  {
+    "productId": "PROD-00092",
+    "sku": "HOM-00092",
+    "name": "EverPeak Assimilated radical leverage",
+    "description": "Officer return on color pick people subject challenge. All way body affect finish. Include data maybe particularly.",
+    "brand": "EverPeak",
+    "price": 1039.66,
+    "salePrice": 880.46,
+    "currency": "INR",
+    "category": "Home Goods",
+    "subcategory": "Lighting",
+    "tags": [
+      "home-goods",
+      "lighting",
+      "market",
+      "turn"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00092/1.jpg",
+      "https://images.example.com/products/PROD-00092/2.jpg"
+    ],
+    "stockQuantity": 96,
+    "specifications": {
+      "color": "Red",
+      "material": "Plastic",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.260074Z",
+    "updatedAt": "2026-08-16T15:30:07.260074Z"
+  },
+  {
+    "productId": "PROD-00093",
+    "sku": "GRO-00093",
+    "name": "NovaTech User-centric upward-trending approach",
+    "description": "Debate foot production moment finish community treatment. National put test race sound enough.",
+    "brand": "NovaTech",
+    "price": 690.44,
+    "salePrice": 624.92,
+    "currency": "INR",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "tags": [
+      "groceries",
+      "beverages",
+      "member",
+      "dark"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00093/1.jpg",
+      "https://images.example.com/products/PROD-00093/2.jpg"
+    ],
+    "stockQuantity": 121,
+    "specifications": {
+      "color": "Red",
+      "material": "Wood",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.260208Z",
+    "updatedAt": "2026-08-16T15:30:07.260208Z"
+  },
+  {
+    "productId": "PROD-00094",
+    "sku": "BEA-00094",
+    "name": "VividLife Fully-configurable even-keeled open architecture",
+    "description": "Walk word side relate real. First give value somebody event business quality.",
+    "brand": "VividLife",
+    "price": 599.44,
+    "salePrice": 509.8,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Haircare",
+    "tags": [
+      "beauty",
+      "haircare",
+      "hundred",
+      "war"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00094/1.jpg",
+      "https://images.example.com/products/PROD-00094/2.jpg"
+    ],
+    "stockQuantity": 223,
+    "specifications": {
+      "color": "Red",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.260283Z",
+    "updatedAt": "2026-08-16T15:30:07.260283Z"
+  },
+  {
+    "productId": "PROD-00095",
+    "sku": "BOO-00095",
+    "name": "Vertex Object-based grid-enabled throughput",
+    "description": "Among western bad under pretty.",
+    "brand": "Vertex",
+    "price": 869.71,
+    "salePrice": 766.18,
+    "currency": "EUR",
+    "category": "Books",
+    "subcategory": "Fiction",
+    "tags": [
+      "books",
+      "fiction",
+      "small",
+      "measure"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00095/1.jpg",
+      "https://images.example.com/products/PROD-00095/2.jpg"
+    ],
+    "stockQuantity": 200,
+    "specifications": {
+      "color": "Blue",
+      "material": "Plastic",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.260624Z",
+    "updatedAt": "2026-08-16T15:30:07.260624Z"
+  },
+  {
+    "productId": "PROD-00096",
+    "sku": "GRO-00096",
+    "name": "CoreCraft Extended dedicated monitoring",
+    "description": "Receive case past only drug prove most. Appear including response beyond side.",
+    "brand": "CoreCraft",
+    "price": 783.31,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Groceries",
+    "subcategory": "Organic",
+    "tags": [
+      "groceries",
+      "organic",
+      "accept",
+      "oil"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00096/1.jpg",
+      "https://images.example.com/products/PROD-00096/2.jpg"
+    ],
+    "stockQuantity": 160,
+    "specifications": {
+      "color": "Red",
+      "material": "Steel",
+      "warrantyMonths": 6
+    },
+    "createdAt": "2026-08-16T15:30:07.260801Z",
+    "updatedAt": "2026-08-16T15:30:07.260801Z"
+  },
+  {
+    "productId": "PROD-00097",
+    "sku": "TOY-00097",
+    "name": "UrbanEdge Diverse incremental projection",
+    "description": "Practice sense expert experience arrive shoulder present. Movement rich view tree company.",
+    "brand": "UrbanEdge",
+    "price": 289.38,
+    "salePrice": null,
+    "currency": "INR",
+    "category": "Toys",
+    "subcategory": "Games",
+    "tags": [
+      "toys",
+      "games",
+      "us",
+      "third"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00097/1.jpg",
+      "https://images.example.com/products/PROD-00097/2.jpg"
+    ],
+    "stockQuantity": 23,
+    "specifications": {
+      "color": "Red",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.260861Z",
+    "updatedAt": "2026-08-16T15:30:07.260861Z"
+  },
+  {
+    "productId": "PROD-00098",
+    "sku": "GRO-00098",
+    "name": "NovaTech Enhanced 5thgeneration infrastructure",
+    "description": "View while unit theory. Fear owner up.",
+    "brand": "NovaTech",
+    "price": 537.98,
+    "salePrice": null,
+    "currency": "EUR",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "tags": [
+      "groceries",
+      "snacks",
+      "government",
+      "feel"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00098/1.jpg",
+      "https://images.example.com/products/PROD-00098/2.jpg"
+    ],
+    "stockQuantity": 203,
+    "specifications": {
+      "color": "Black",
+      "material": "Plastic",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.260906Z",
+    "updatedAt": "2026-08-16T15:30:07.260906Z"
+  },
+  {
+    "productId": "PROD-00099",
+    "sku": "HOM-00099",
+    "name": "VividLife Persevering secondary moratorium",
+    "description": "Threat care mean evening speak former room. Responsibility add front far purpose. Compare task today still middle. Husband believe word local. According himself land environment form.",
+    "brand": "VividLife",
+    "price": 183.23,
+    "salePrice": null,
+    "currency": "USD",
+    "category": "Home Goods",
+    "subcategory": "Lighting",
+    "tags": [
+      "home-goods",
+      "lighting",
+      "pass",
+      "several"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00099/1.jpg",
+      "https://images.example.com/products/PROD-00099/2.jpg"
+    ],
+    "stockQuantity": 43,
+    "specifications": {
+      "color": "White",
+      "material": "Aluminum",
+      "warrantyMonths": 24
+    },
+    "createdAt": "2026-08-16T15:30:07.260947Z",
+    "updatedAt": "2026-08-16T15:30:07.260947Z"
+  },
+  {
+    "productId": "PROD-00100",
+    "sku": "BEA-00100",
+    "name": "Vertex Re-engineered 24/7 firmware",
+    "description": "Artist brother fill if maybe. Real police wait happen determine.",
+    "brand": "Vertex",
+    "price": 747.46,
+    "salePrice": 697.06,
+    "currency": "EUR",
+    "category": "Beauty",
+    "subcategory": "Fragrance",
+    "tags": [
+      "beauty",
+      "fragrance",
+      "cell",
+      "mean"
+    ],
+    "imageUrls": [
+      "https://images.example.com/products/PROD-00100/1.jpg",
+      "https://images.example.com/products/PROD-00100/2.jpg"
+    ],
+    "stockQuantity": 163,
+    "specifications": {
+      "color": "Blue",
+      "material": "Wood",
+      "warrantyMonths": 12
+    },
+    "createdAt": "2026-08-16T15:30:07.261012Z",
+    "updatedAt": "2026-08-16T15:30:07.261012Z"
+  }
+]
