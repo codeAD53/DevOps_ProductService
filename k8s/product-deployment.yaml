@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: product-server
+
+spec:
+  replicas: 1
+
+  selector:
+    matchLabels:
+      app: product-server
+  
+  template:
+    metadata:
+      labels:
+        app: product-server
+    
+    spec:
+      containers:
+        - name: product-server
+          image: product-service-server:latest
+          imagePullPolicy: IfNotPresent
+
+          ports:
+            - containerPort: 5000
+          
+          resources:
+            requests:
+              memory: "64Mi"
+              cpu: "100m"
+            limits:
+              memory: "128Mi"
+              cpu: "500m"
+          
+          env:
+            - name: PORT
+              value: "5000"
+            
+            - name: MONGO_URI
+              value: "mongodb://mongo-headless:27017/productdb"
